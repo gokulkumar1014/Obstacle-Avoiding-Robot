@@ -40,6 +40,8 @@ continuously.
 
 ### Software simulation [images](https://drive.google.com/drive/u/2/folders/1lk06DOWQVwDQzjvrEUsqZpcHG6dQDmLS)
 
+### Hardware simulation (![Robot](https://github.com/gokulkumar1014/Obstacle-Avoiding-Robot/assets/161945757/105655f0-d85f-42ae-bc1d-518b99b37de7)
+
 ### Hardware simulation [video](https://drive.google.com/file/d/1CJdubmcdzVsobiQJegtEaD21sFlx8z7u/view)
 ## Conclusion:
 Obstacle detection is required by many navigation robots, hence an obstacle avoidance is an important one for a mobile robot. Obstacle Avoidance Robots can be used in a wide range of situations. They can be utilised as service robots to perform home tasks and variety of other interior tasks like vacuum cleaning etc. Obstacle avoidance is an extensively researched and developing technology around the world, and it is certain that most robots will have this capability in the near future.
