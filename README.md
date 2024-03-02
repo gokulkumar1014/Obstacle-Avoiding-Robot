@@ -40,7 +40,7 @@ continuously.
 
 ### Software simulation [images](https://drive.google.com/drive/u/2/folders/1lk06DOWQVwDQzjvrEUsqZpcHG6dQDmLS)
 
-### Hardware simulation ![Robot](https://github.com/gokulkumar1014/Obstacle-Avoiding-Robot/assets/161945757/105655f0-d85f-42ae-bc1d-518b99b37de7)
+### Hardware simulation [image](https://github.com/gokulkumar1014/Obstacle-Avoiding-Robot/assets/161945757/105655f0-d85f-42ae-bc1d-518b99b37de7)
 
 ### Hardware simulation [video](https://drive.google.com/file/d/1CJdubmcdzVsobiQJegtEaD21sFlx8z7u/view)
 ## Conclusion:
